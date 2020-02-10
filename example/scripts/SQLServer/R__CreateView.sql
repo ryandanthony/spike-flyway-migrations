@@ -1,0 +1,2 @@
+CREATE OR REPLACE VIEW my_users AS 
+    SELECT * FROM users;
